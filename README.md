@@ -1,4 +1,3 @@
-# nzfreeviewnz
 #EXTM3U
 #EXTINF:-1 - tv1
 http://livestream.etv.org.nz/tv1.m3u8?t=E.485d1bf83375b9f69e3281c46c4bf34d.1478258647.93a79190316fa8250d042a3a83e6e265d1d32090
